@@ -1,0 +1,2 @@
+- left-fixed.right-auto.html 		纯HTML和css代码。
+- left-fixed.right-auto.js.html  	使用JavaScript动态控制的代码。
